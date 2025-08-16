@@ -29,7 +29,7 @@ When I'm not building healthcare tech solutions, you'll find me writing technica
 - 🏥 Building backend systems that serve **millions of patients**
 - 🤖 Passionate about **AI/ML integration** in healthcare
 - ✍️ Technical writer on **Medium**
-- 🎯 Competetive Programming
+- 🎯 Competitive Programming
 
 ## 🔭 What I'm up to
 
