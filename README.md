@@ -126,7 +126,7 @@ Collection of my competitive programming solutions and implementations of variou
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reimagining Python Libraries with Rust: A Developer’s Guide to Performance and Safety](https://medium.com/@mr.sourav.raj)
+- 🔧 [Reimagining Python Libraries with Rust: A Developer’s Guide to Performance and Safety](https://medium.com/@mr.sourav.raj)
 - 📈 [Stock Research Used to Take Me Hours. Now AI Does It in Minutes](https://medium.com/@mr.sourav.raj)
 - 🔧 [Building a Redis CLI from Scratch in Python](https://medium.com/@mr.sourav.raj) 
 - ⚡ [Supercharging Your Python HTTP Requests with Session Pooling](https://medium.com/@mr.sourav.raj)
