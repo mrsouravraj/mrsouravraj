@@ -126,6 +126,7 @@ Collection of my competitive programming solutions and implementations of variou
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🔧 [Building Your Own Minimal Python Mail Server: SMTP & POP3](https://medium.com/@mr.sourav.raj/building-your-own-minimal-python-mail-server-smtp-pop3-4f68cffd3ceb)
 - 🔧 [Reimagining Python Libraries with Rust: A Developer’s Guide to Performance and Safety](https://medium.com/@mr.sourav.raj)
 - 📈 [Stock Research Used to Take Me Hours. Now AI Does It in Minutes](https://medium.com/@mr.sourav.raj)
 - 🔧 [Building a Redis CLI from Scratch in Python](https://medium.com/@mr.sourav.raj) 
