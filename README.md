@@ -1,3 +1,4 @@
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=mrsouravraj" alt="mrsouravraj" /> </h3>
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">
 Hey there! I'm Sourav Chaurasia 👋
@@ -180,4 +181,4 @@ I'm always open to interesting conversations about tech, healthcare, competitive
 <i>Feel free to star ⭐ any repositories you find interesting!</i>
 </div>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=mrsouravraj" alt="tushar2704" /> </h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=mrsouravraj" alt="mrsouravraj" /> </h3>
