@@ -173,7 +173,7 @@ I'm always open to interesting conversations about tech, healthcare, competitive
 - 🏏 Big cricket fan
 - 🧩 Problem-solving is my favorite hobby
 - ☕ Coffee fuels my coding sessions
-- 🌍 Living the expat life in Dubai!
+- 🌍 Living the expat life in Abu Dhabi!
 
 ---
 
