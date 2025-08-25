@@ -127,11 +127,13 @@ Collection of my competitive programming solutions and implementations of variou
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🧠 [From Russian Feuds to Predicting Your Next Word: How Markov Chains Power Modern Software](https://medium.com/@mr.sourav.raj/from-russian-feuds-to-predicting-your-next-word-how-markov-chains-power-modern-software-e65735d95f92)
 - 🔧 [Building Your Own Minimal Python Mail Server: SMTP & POP3](https://medium.com/@mr.sourav.raj/building-your-own-minimal-python-mail-server-smtp-pop3-4f68cffd3ceb)
-- 🔧 [Reimagining Python Libraries with Rust: A Developer’s Guide to Performance and Safety](https://medium.com/@mr.sourav.raj)
-- 📈 [Stock Research Used to Take Me Hours. Now AI Does It in Minutes](https://medium.com/@mr.sourav.raj)
-- 🔧 [Building a Redis CLI from Scratch in Python](https://medium.com/@mr.sourav.raj) 
-- ⚡ [Supercharging Your Python HTTP Requests with Session Pooling](https://medium.com/@mr.sourav.raj)
+- 🔧 [Reimagining Python Libraries with Rust: A Developer’s Guide to Performance and Safety](https://medium.com/@mr.sourav.raj/reimagining-python-libraries-with-rust-a-developers-guide-to-performance-and-safety-863d95f2efbb)
+- 📈 [Stock Research Used to Take Me Hours. Now AI Does It in Minutes](https://medium.com/@mr.sourav.raj/stock-research-used-to-take-me-hours-now-ai-does-it-in-minutes-5dd12258b7ca)
+- 🔧 [Building a Redis CLI from Scratch in Python](https://medium.com/@mr.sourav.raj/building-a-redis-cli-from-scratch-in-python-a-deep-dive-into-protocols-parsers-prompts-c23b2751bda7) 
+- ⚡ [Supercharging Your Python HTTP Requests with Session Pooling](https://medium.com/@mr.sourav.raj/supercharging-your-python-http-requests-with-session-pooling-63548c1b0788)
+- ➕ [More on Medium →](https://medium.com/@mr.sourav.raj)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
