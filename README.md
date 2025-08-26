@@ -183,4 +183,4 @@ I'm always open to interesting conversations about tech, healthcare, competitive
 <i>Feel free to star ⭐ any repositories you find interesting!</i>
 </div>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=mrsouravraj" alt="mrsouravraj" /> </h3>
+<!-- <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=mrsouravraj" alt="mrsouravraj" /> </h3> -->
