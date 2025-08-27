@@ -144,7 +144,7 @@ Collection of my competitive programming solutions and implementations of variou
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsouravraj&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrsouravraj&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrsouravraj&hide_border=true)
 
 </div>
 
