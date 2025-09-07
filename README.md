@@ -127,6 +127,9 @@ Collection of my competitive programming solutions and implementations of variou
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- ⚡ [Mastering Asyncio Semaphores in Python: A Complete Guide to Concurrency Control](https://medium.com/@mr.sourav.raj/mastering-asyncio-semaphores-in-python-a-complete-guide-to-concurrency-control-6b4dd940e10e)
+- 🧠 [Advanced Algorithms Every Senior Developer Must Know: Part 1 — Merkle Trees](https://medium.com/@mr.sourav.raj/advanced-algorithms-every-senior-developer-must-know-part-1-merkle-trees-c7337f990607)
+- 🔧 [Request Hedging vs Request Coalescing: A Software Engineer’s Guide to Optimizing Distributed Systems](https://medium.com/@mr.sourav.raj/request-hedging-vs-request-coalescing-a-software-engineers-guide-to-optimizing-distributed-fdcc6590ba9d)
 - 🧠 [From Russian Feuds to Predicting Your Next Word: How Markov Chains Power Modern Software](https://medium.com/@mr.sourav.raj/from-russian-feuds-to-predicting-your-next-word-how-markov-chains-power-modern-software-e65735d95f92)
 - 🔧 [Building Your Own Minimal Python Mail Server: SMTP & POP3](https://medium.com/@mr.sourav.raj/building-your-own-minimal-python-mail-server-smtp-pop3-4f68cffd3ceb)
 - 🔧 [Reimagining Python Libraries with Rust: A Developer’s Guide to Performance and Safety](https://medium.com/@mr.sourav.raj/reimagining-python-libraries-with-rust-a-developers-guide-to-performance-and-safety-863d95f2efbb)
