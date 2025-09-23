@@ -127,6 +127,7 @@ Collection of my competitive programming solutions and implementations of variou
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🔧 [Stop Wrestling with JSON: Master JMESPath in Python (The 2025 Developer’s Guide)](https://medium.com/python-in-plain-english/stop-wrestling-with-json-master-jmespath-in-python-the-2025-developers-guide-d4885d584b46)
 - 🧠 [Advanced Algorithms Every Senior Developer Must Know: Part 2 — Consistent Hashing](https://medium.com/@mr.sourav.raj/advanced-algorithms-every-senior-developer-must-know-part-2-consistent-hashing-78fd2413a5ae)
 - ⚡ [Mastering Asyncio Semaphores in Python: A Complete Guide to Concurrency Control](https://medium.com/@mr.sourav.raj/mastering-asyncio-semaphores-in-python-a-complete-guide-to-concurrency-control-6b4dd940e10e)
 - 🧠 [Advanced Algorithms Every Senior Developer Must Know: Part 1 — Merkle Trees](https://medium.com/@mr.sourav.raj/advanced-algorithms-every-senior-developer-must-know-part-1-merkle-trees-c7337f990607)
